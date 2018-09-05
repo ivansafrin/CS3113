@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C9030978878200B30F9C206CD30A0E540EF2FA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C9030978878200B30F9C206CD30A0E540EF2FA7" : 0,
+    "AEBD01245E30DC1074C644A781094CE154DF5C0C" : 0,
+    "4AD149A4D65AFE54D92B7FD2D7D0F5BF72CE6238" : 9223372036854775807,
+    "1D46E3333C91261EA9AA3B87524A31711E0CBFB2" : 0,
+    "52E66777E2D61BC00F9B416F60B7FA45E035F776" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8DB5505D-D1FE-4504-99C2-C078C0120BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C9030978878200B30F9C206CD30A0E540EF2FA7" : "github\/",
+    "AEBD01245E30DC1074C644A781094CE154DF5C0C" : "Students\/max_lebedev",
+    "4AD149A4D65AFE54D92B7FD2D7D0F5BF72CE6238" : "..\/students\/cs3113\/bas525",
+    "1D46E3333C91261EA9AA3B87524A31711E0CBFB2" : "Students\/kevin_zeng",
+    "52E66777E2D61BC00F9B416F60B7FA45E035F776" : "Students\/wnseh"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NYUCodebase",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "project_template\/Xcode\/NYUCodebase.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tastyegg\/CS3113_Student.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D46E3333C91261EA9AA3B87524A31711E0CBFB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ivansafrin\/CS3113.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C9030978878200B30F9C206CD30A0E540EF2FA7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bas525\/CS3113-Intro-To-Game-Programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4AD149A4D65AFE54D92B7FD2D7D0F5BF72CE6238"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wnseh\/GameProgrammingHW.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52E66777E2D61BC00F9B416F60B7FA45E035F776"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxlebedev\/CS3113.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AEBD01245E30DC1074C644A781094CE154DF5C0C"
+    }
+  ]
+}
